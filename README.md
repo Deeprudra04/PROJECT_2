@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Deep Rudra!
+🎓 I'm an Electronics and Communication Engineering student at Kalyani Government Engineering College with hands-on experience in embedded systems, robotics, VLSI, and machine learning. I enjoy solving real-world problems through technology and continuously seek to learn, innovate, and contribute with energy and teamwork.
 
-🎓 I'm a passionate Electronics and Communication Engineering student from Kalyani Government Engineering College.
-I am an engineering student who loves technology and new ideas. I have practical experience in areas like embedded systems, robotics, chip design, and machine learning. I enjoy working on challenging projects where I can use my skills to solve real problems. I am always eager to learn new things and keep up with the latest technologies. I want to be a valuable part of a company by bringing energy, creativity, and teamwork to every project
+
 
 # 🎨 Air Canvas Drawing Tool (Color Marker-Based Virtual Whiteboard)
 
