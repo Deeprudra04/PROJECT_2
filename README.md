@@ -51,17 +51,6 @@ This is a computer vision-based air drawing tool that allows users to draw on a 
 - `Canvas Buttons`:  
   - 🎨 Color selection: Blue, Green, Red, Yellow  
   - 🧹 Clear button: Clears the canvas
-
----
-
-## 🖼️ Screenshots
-
-| Live Cam Feed | Mask | Whiteboard |
-|---------------|------|------------|
-| (Add screenshots here using `![alt](https://github.com/Deeprudra04/PROJECT_2/blob/main/Screenshot%202025-07-06%20225851.png)`) |
-
----
-
 ## 📦 Requirements
 
 Install the following Python packages:
