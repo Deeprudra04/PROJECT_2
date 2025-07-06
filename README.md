@@ -58,7 +58,7 @@ This is a computer vision-based air drawing tool that allows users to draw on a 
 
 | Live Cam Feed | Mask | Whiteboard |
 |---------------|------|------------|
-| (Add screenshots here using `![alt](img_link)`) |
+| (Add screenshots here using `![alt](https://github.com/Deeprudra04/PROJECT_2/blob/main/Screenshot%202025-07-06%20225851.png)`) |
 
 ---
 
