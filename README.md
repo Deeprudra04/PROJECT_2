@@ -3,7 +3,7 @@
 
 
 
-# 🎨 Air Canvas Drawing Tool (Color Marker-Based Virtual Whiteboard)
+# 🎨 Air Canvas Drawing Tool (Color Marker-Based Virtual Whiteboard) 
 
 This is a computer vision-based air drawing tool that allows users to draw on a virtual whiteboard using colored markers tracked in real-time via a webcam. It uses OpenCV and NumPy to detect the position of a colored object (marker) and translate its motion into drawn lines on a canvas. The GUI includes color selection and a "Clear" button to reset the canvas.
 
